@@ -26,7 +26,7 @@ function Support() {
               <p className='text-gray-600 text-xl'>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </p>
             </div>
             <div className='bg-slate-100 pl-8 py-4'>
-              <p className='flex items-center text-indigo-600'><a href='#'>Contact Us </a> <ArrowSmRightIcon className='w-5 ml-2' /></p>
+              <p className='flex items-center text-indigo-600'><a href='/'>Contact Us </a> <ArrowSmRightIcon className='w-5 ml-2' /></p>
             </div>
           </div>
           <div className='bg-white rounded-xl shadow-2xl'>
@@ -36,7 +36,7 @@ function Support() {
               <p className='text-gray-600 text-xl'>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </p>
             </div>
             <div className='bg-slate-100 pl-8 py-4'>
-              <p className='flex items-center text-indigo-600'><a href='#'>Contact Us</a> <ArrowSmRightIcon className='w-5 ml-2' /></p>
+              <p className='flex items-center text-indigo-600'><a href='/'>Contact Us</a> <ArrowSmRightIcon className='w-5 ml-2' /></p>
             </div>
           </div>
           <div className='bg-white rounded-xl shadow-2xl'>
@@ -46,7 +46,7 @@ function Support() {
               <p className='text-gray-600 text-xl'>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </p>
             </div>
             <div className='bg-slate-100 pl-8 py-4'>
-              <p className='flex items-center text-indigo-600'><a href='#'>Contact Us </a><ArrowSmRightIcon className='w-5 ml-2' /></p>
+              <p className='flex items-center text-indigo-600'><a href='/'>Contact Us </a><ArrowSmRightIcon className='w-5 ml-2' /></p>
             </div>
           </div>
         </div>
